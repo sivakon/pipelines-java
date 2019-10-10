@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sivakon0221/public-pros/_apis/build/status/sivakon.pipelines-java?branchName=master)](https://dev.azure.com/sivakon0221/public-pros/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 

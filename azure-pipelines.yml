@@ -8,8 +8,6 @@ trigger:
 
 pool:
   name: 'simple'
-  demands:
-    - mvn
 
 steps:
 - task: Maven@3
